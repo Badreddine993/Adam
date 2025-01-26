@@ -1,0 +1,1 @@
+print("adam.py: __name__ = ", __name__)
